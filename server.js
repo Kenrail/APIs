@@ -6,7 +6,7 @@ app.use(express.json());
 
 // Sample data (like a small database)
 let users = [
-  { id: 1, name: 'Alice', email: 'alice@gmail.com' },
+  { id: 1, name: 'ken', email: 'alice@gmail.com' },
   { id: 2, name: 'jake', email: 'jake@gmail.com' }
 ];
 
